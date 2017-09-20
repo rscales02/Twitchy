@@ -1,0 +1,25 @@
+body {
+	background-color: #efebc2;
+	margin: 0 auto;
+	padding: 0;
+}
+.title {
+	margin: 0 auto;
+	width: 700px;
+}
+
+h2, ul {
+	display: inline-block;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+ul {
+	position: relative;
+	right: 0;
+}
+
+.stream-icon {
+	max-height: 50px;
+	max-width: 50px;
+}
