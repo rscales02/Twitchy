@@ -1,6 +1,4 @@
-* {
-	border: 1px solid;
-}
+
 
 body {
 	background-color: #efebc2;
@@ -9,15 +7,14 @@ body {
 	padding: 0;
 }
 
-ul {
-	float: right;
+h2 {
+	text-align: center;
 }
 
-ul span {
-	overflow: hidden;
-	width: 5px;
-
+.row {
+	border: 1px solid;
 }
+
 .stream-icon img {
 	border-radius: 50%;
 	max-height: 50px;
